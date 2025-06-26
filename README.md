@@ -1,6 +1,6 @@
 # hansard-Llama
 
-A LLM fine-tuning project focused on parliamentary records and debates from 1990-2010.
+A LLM fine-tuning project focused on parliamentary records and debates from the 1990s and 2000s.
 
 
 | Item                | Details                                                                                   |
